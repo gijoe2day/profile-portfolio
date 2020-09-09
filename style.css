@@ -1,0 +1,81 @@
+footer ul {
+  list-style: none;
+  height: 20px;
+  width: 900px;
+  margin: auto;
+}
+
+.brand {
+  font-size: 37px;
+  font-family: "Roboto Slab", serif;
+}
+
+.navbar-nav {
+  font-family: "Roboto Slab", serif;
+  font-size: 20px;
+  margin-left: 15px;
+}
+
+.lets {
+  font-family: "Roboto Slab", serif;
+  font-size: 60px;
+}
+
+.page-header img {
+  opacity: 0.2;
+  height: 550px;
+}
+
+.better {
+  font-family: "Roboto Slab", serif;
+  font-size: 60px;
+}
+
+.dynamic {
+  font-size: 90px;
+  height: 100px;
+  font-family: "Roboto Slab", serif;
+}
+
+.tech-header,
+.about-header,
+.project-header {
+  font-family: "Roboto Slab", serif;
+  color: #057bfe;
+  font-size: 40px;
+}
+
+.description-title {
+  font-family: "Roboto Slab", serif;
+  color: #284b63;
+}
+
+.card {
+  border: none;
+}
+
+.profile-pic {
+  max-width: 380px;
+  height: auto;
+  border-radius: 30%;
+}
+
+.detail {
+  margin-right: 130px;
+}
+
+.project-card {
+  padding-left: 30px;
+}
+
+.project-detail {
+  padding-right: 50px;
+}
+
+footer {
+  font-size: 20px;
+}
+
+.footer-item {
+  margin-left: 10px;
+}
